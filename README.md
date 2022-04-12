@@ -1,4 +1,4 @@
-### loading-animation
+### loading-animation (기록장)
 
 //html
 <!DOCTYPE html>
